@@ -1,0 +1,4 @@
+deepface==0.0.75
+Flask==2.2.2
+numpy==1.23.5
+opencv_python==4.6.0.66
