@@ -2,4 +2,4 @@ deepface==0.0.75
 Flask==2.2.2
 numpy==1.23.5
 waitress==2.1.2
-~pencv_python==4.6.0.66
+opencv_python==4.6.0.66
